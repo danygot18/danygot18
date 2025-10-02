@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Inertia.js
 - 📫 You can reach me via:
 - email: danygot74@gmail.com
+- Portfolio Link: https://ygotportfolio.vercel.app/
 
 
 <!---
