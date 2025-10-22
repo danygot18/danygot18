@@ -44,8 +44,6 @@ To become a **skilled software developer** capable of creating **efficient**, **
   </p>
 </h1>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danygot18&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
