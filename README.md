@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&pause=1000&width=435&lines=WELCOME!!" alt="Typing SVG" />
-</p>
+<center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&pause=1000&width=435&lines=WELCOME!!" alt="Typing SVG" /></a>
+</center>
+
 
 
 <h1>👋 HI!!, I'm Dan Russell E. Ygot </h1>
