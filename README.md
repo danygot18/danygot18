@@ -43,27 +43,25 @@ To become a **skilled software developer** capable of creating **efficient**, **
     <a href="https://ygotportfolio.vercel.app"> MY PORTFOLIO </a>
   </p>
 </h1>
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danygot18&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
+---
 
 📫 You can reach me via:
     - email: danygot74@gmail.com
 
+---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danygot18&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danygot18&theme=tokyonight" alt="GitHub streak" />
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danygot18&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danygot18&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danygot18&theme=tokyonight" alt="GitHub streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danygot18&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</div>
 
 
 <!---
