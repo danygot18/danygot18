@@ -37,8 +37,12 @@ To become a **skilled software developer** capable of creating **efficient**, **
 
 ### 🌐 My Portfolio
 
-👉 **Check it out:** [https://ygotportfolio.vercel.app/](https://ygotportfolio.vercel.app/)
-
+👉 **Check it out:** 
+<h1>
+  <p align="center">
+    <a href="[Readme Typing SVG](https://ygotportfolio.vercel.app/)"> MY PORTFOLIO </a>
+  </p>
+</h1>
 ---
 
 <p align="center">
@@ -49,7 +53,7 @@ To become a **skilled software developer** capable of creating **efficient**, **
 📫 You can reach me via:
     - email: danygot74@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=danygot18&color=blue&style=for-the-badge)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danygot18&show_icons=true&theme=tokyonight" alt="GitHub stats" />
