@@ -13,22 +13,14 @@
 ### 🚀 What I'm Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" alt="Laravel" />
   <b>Laravel</b> – Backend development and RESTful APIs  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
   <b>React.js</b> – Building responsive and dynamic web interfaces  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
   <b>MERN Stack</b> – Full-stack web application development  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native" />
   <b>React Native</b> – Creating cross-platform mobile applications  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
   <b>SQL / MySQL</b> – Managing and structuring relational databases  
 </p>
 
@@ -37,21 +29,15 @@
 ### 🌱 What I’m Excited to Learn Next
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python" />
   <b>Python</b> – Expanding my knowledge in backend and data automation  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" />
   <b>Next.js</b> – Building server-side rendered and static websites  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   <b>TypeScript</b> – Writing scalable, type-safe JavaScript applications  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="40" height="40" alt="NestJS" />
   <b>NestJS</b> – Building structured and efficient server-side applications  
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-  <b>Cloud Services (Firebase, AWS)</b> – For scalability and deployment  
+  <b>Cloud Services (Firebase)</b> – For scalability and deployment  
 </p>
 
 ---
