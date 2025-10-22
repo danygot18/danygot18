@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&pause=1000&width=435&lines=WELCOME!!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&pause=1000&center=true&width=435&lines=WELCOME!!;HELLO!!;HI!" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">👋 HI!!, I'm Dan Russell E. Ygot</h1>
