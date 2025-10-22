@@ -1,4 +1,8 @@
-<h1 align="center"> 👋 HI!!, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Dan+Russell+E.+Ygot)](https://git.io/typing-svg) </h1>
+<h1 align="center">
+  👋 HI!!, I'm 
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Dan+Russell+E.+Ygot" alt="Typing SVG" />
+</h1>
+
 
 👋 Hi, I'm Russell!
 
