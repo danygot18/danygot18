@@ -23,11 +23,8 @@
 
 ### 🌱 What I’m Excited to Learn Next
 
-- **Python** – Expanding my knowledge in backend and data automation  
-- **Next.js** – Building server-side rendered and static websites  
-- **TypeScript** – Writing scalable, type-safe JavaScript applications  
-- **NestJS** – Building structured and efficient server-side applications  
-- **Cloud Services (Firebase, AWS)** – For scalability and deployment  
+I’m eager to explore more technologies such as **Python**, **Next.js**, **TypeScript**, **NestJS**, and **Cloud services (AWS, Firebase)** to improve scalability and deployment skills.
+
 
 ---
 
