@@ -29,7 +29,7 @@ To become a skilled software developer capable of creating efficient, user-frien
 📫 You can reach me via:
     - email: danygot74@gmail.com
 
-    
+   ![GitHub Views](https://komarev.com/ghpvc/?username=your-github-username)    
 <!---
 danygot18/danygot18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
