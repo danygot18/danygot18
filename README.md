@@ -1,7 +1,6 @@
-👋 HI!!, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Dan+Russell+E.+Ygot)](https://git.io/typing-svg
+<center> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&pause=1000&width=435&lines=WELCOME!!)](https://git.io/typing-svg) </center>
 
-
-👋 Hi, I'm Russell!
+<h1>👋 HI!!, I'm Dan Russell E. Ygot </h1>
 
 🎓 I'm a Bachelor of Science in Information Technology (BSIT) student at Technological University of the Philippines – Taguig.
 💻 I’m passionate about building web and mobile applications, and I love exploring new technologies that help bring ideas to life.
