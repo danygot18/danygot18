@@ -1,8 +1,9 @@
-<center>
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&pause=1000&width=435&lines=WELCOME!!" alt="Typing SVG" /></a>
-</center>
+</p>
 
 <h1 align="center">👋 HI!!, I'm Dan Russell E. Ygot</h1>
+
 <p align="center">
 🎓 A <b>Bachelor of Science in Information Technology (BSIT)</b> student at <b>Technological University of the Philippines – Taguig</b>.<br/>
 💻 Passionate about building <b>web and mobile applications</b>, and exploring new technologies that bring ideas to life.
@@ -12,33 +13,21 @@
 
 ### 🚀 What I'm Learning
 
-<p align="left">
-  <b>Laravel</b> – Backend development and RESTful APIs  
-  <br />
-  <b>React.js</b> – Building responsive and dynamic web interfaces  
-  <br />
-  <b>MERN Stack</b> – Full-stack web application development  
-  <br />
-  <b>React Native</b> – Creating cross-platform mobile applications  
-  <br />
-  <b>SQL / MySQL</b> – Managing and structuring relational databases  
-</p>
+- **Laravel** – Backend development and RESTful APIs  
+- **React.js** – Building responsive and dynamic web interfaces  
+- **MERN Stack (MongoDB, Express, React, Node.js)** – Full-stack web application development  
+- **React Native** – Creating cross-platform mobile applications  
+- **SQL / MySQL** – Managing and structuring relational databases  
 
 ---
 
 ### 🌱 What I’m Excited to Learn Next
 
-<p align="left">
-  <b>Python</b> – Expanding my knowledge in backend and data automation  
-  <br />
-  <b>Next.js</b> – Building server-side rendered and static websites  
-  <br />
-  <b>TypeScript</b> – Writing scalable, type-safe JavaScript applications  
-  <br />
-  <b>NestJS</b> – Building structured and efficient server-side applications  
-  <br />
-  <b>Cloud Services (Firebase)</b> – For scalability and deployment  
-</p>
+- **Python** – Expanding my knowledge in backend and data automation  
+- **Next.js** – Building server-side rendered and static websites  
+- **TypeScript** – Writing scalable, type-safe JavaScript applications  
+- **NestJS** – Building structured and efficient server-side applications  
+- **Cloud Services (Firebase, AWS)** – For scalability and deployment  
 
 ---
 
