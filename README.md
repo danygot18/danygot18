@@ -37,10 +37,10 @@ To become a **skilled software developer** capable of creating **efficient**, **
 
 ### 🌐 My Portfolio
 
-👉 **Check it out:** 
+
 <h1>
   <p align="center">
-    <a href="https://ygotportfolio.vercel.app"> MY PORTFOLIO </a>
+    <a href="https://ygotportfolio.vercel.app"><b>👉Check it out</b></a>
   </p>
 </h1>
 
