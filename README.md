@@ -23,7 +23,8 @@
 
 ### 🌱 What I’m Excited to Learn Next
 
-I’m eager to explore more technologies such as **Python**, **Next.js**, **TypeScript**, **NestJS**, and **Cloud services (AWS, Firebase)** to improve scalability and deployment skills.
+- I’m eager to explore more technologies such as Python, Next.js, TypeScript, and Cloud services (Firebase) to improve scalability and deployment skills.
+- I also want to enhance my skills in creating responsive, user-friendly, and visually appealing designs, while learning how to write clean, efficient, and maintainable code.
 
 
 ---
