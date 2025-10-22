@@ -31,6 +31,15 @@ To become a skilled software developer capable of creating efficient, user-frien
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danygot18&color=blue&style=for-the-badge)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danygot18&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danygot18&theme=tokyonight" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danygot18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 <!---
 danygot18/danygot18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
