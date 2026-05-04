@@ -5,7 +5,7 @@
 <h1 align="center">👋 HI!!, I'm Dan Russell E. Ygot</h1>
 
 <p align="center">
-🎓 A <b>Bachelor of Science in Information Technology (BSIT)</b> student at <b>Technological University of the Philippines – Taguig</b>.<br/>
+🎓 A <b>Bachelor of Science in Information Technology (BSIT)</b> at <b>Technological University of the Philippines – Taguig</b>.<br/>
 💻 Passionate about building <b>web and mobile applications</b>, and exploring new technologies that bring ideas to life.
 </p>
 
